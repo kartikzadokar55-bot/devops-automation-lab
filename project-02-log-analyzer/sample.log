@@ -1,0 +1,13 @@
+INFO: Server started
+INFO: User login successful
+WARNING: Disk usage is 75%
+ERROR: Database connection failed
+INFO: Health check completed
+ERROR: API timeout
+WARNING: Memory usage high
+INFO: User logout
+ERROR: Database connection failed
+INFO: Deployment completed
+WARNING: CPU usage high
+ERROR: File not found
+INFO: Backup completed
