@@ -1,0 +1,8 @@
+# Generated logs
+logs/*.log
+
+# Generated reports
+reports/*.csv
+
+# Generated passwords
+passwords/*.csv
